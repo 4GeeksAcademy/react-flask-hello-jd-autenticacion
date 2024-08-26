@@ -32,7 +32,7 @@ export const Navbar = () => {
 									<small>¿Ya eres miembro? Te damos la bienvenida.</small>
 								</Link>
 							</li>
-							<li><a className="dropdown-item" href="#">Log out</a></li>
+							
 						</ul>
 					</div>
 
